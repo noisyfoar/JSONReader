@@ -2,7 +2,7 @@
 //  AppTableViewCell.swift
 //  JsonReader
 //
-//  Created by Ravil Yagafarov on 13.07.2022.
+//  Created by Salavat Yagafarov on 13.07.2022.
 //
 
 import UIKit
